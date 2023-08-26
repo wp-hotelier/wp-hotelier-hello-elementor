@@ -1,0 +1,16 @@
+.elementor-widget .hotelier-notice:last-child {
+  margin-bottom: 0;
+}
+
+.hotelier-notice__icon {
+  font-size: 1.2em;
+  margin-right: 10px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.hotelier-notice__icon + .hotelier-notice__text {
+  padding-left: 2em;
+  display: block;
+}

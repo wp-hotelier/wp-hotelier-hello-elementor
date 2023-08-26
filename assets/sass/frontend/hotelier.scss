@@ -1,0 +1,33 @@
+/**
+ * Hotelier Styles
+ */
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+
+# Global
+# Single Room
+# Listing Page
+# Booking Page
+# Widgets
+# Extensions
+*/
+
+// GLOBAL
+@import "global";
+
+// DATEPICKER
+@import "datepicker";
+
+// SINGLE ROOM
+@import "room";
+
+// LISTING
+@import "listing";
+
+// BOOKING
+@import "booking";
+
+// WIDGETS
+@import "widgets";

@@ -1,0 +1,981 @@
+# Copyright (C) 2023 WP Hotelier - Hello Elementor
+# This file is distributed under the same license as the WP Hotelier - Hello Elementor package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Hotelier - Hello Elementor\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: WP Hotelier <support@wphotelier.com>\n"
+"POT-Creation-Date: 2023-07-30 21:14+0000\n"
+"Report-Msgid-Bugs-To: https://github.com/wp-hotelier/wp-hotelier-hello-elementor\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../hotelier-hello-elementor.php:62, ../hotelier-hello-elementor.php:69
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: ../hotelier-hello-elementor.php:228, ../hotelier-hello-elementor.php:222
+msgid "WP Hotelier - Hello Elementor requires %s."
+msgstr ""
+
+#: ../hotelier-hello-elementor.php:230
+msgid "Install %s"
+msgstr ""
+
+#: ../hotelier-hello-elementor.php:224
+msgid "Activate %s"
+msgstr ""
+
+#: ../hotelier-hello-elementor.php:271
+msgid "Thanks for installing WP Hotelier - Hello Elementor!"
+msgstr ""
+
+#: ../includes/hotelier-functions.php:87
+msgid "Room archive settings"
+msgstr ""
+
+#: ../includes/hotelier-functions.php:94
+msgid "Rooms per page"
+msgstr ""
+
+#: ../includes/widgets-functions.php:59
+msgid "WP Hotelier"
+msgstr ""
+
+#: ../includes/templates/templates-shortcodes.php:52
+msgid "%s bed"
+msgid_plural "%s beds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/templates/templates-shortcodes.php:58
+msgid "%s bathroom"
+msgid_plural "%s bathrooms"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/widgets/ajax-room-booking.php:22
+msgid "AJAX Room Booking"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:51, ../includes/widgets/rooms-filter.php:39
+msgid "Settings"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:58
+msgid "Show Quantity Selection"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:67
+msgid "Show Guests Selection"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:76
+msgid "Show Rate Description"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:85
+msgid "Show Room Conditions"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:94
+msgid "Show Room Deposit"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:107, ../includes/widgets/ajax-room-booking.php:144, ../includes/widgets/datepicker.php:22, ../includes/widgets/datepicker.php:47, ../includes/widgets/listing.php:55, ../includes/widgets/listing.php:1532
+msgid "Datepicker"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:114, ../includes/widgets/booking.php:62, ../includes/widgets/datepicker.php:54, ../includes/widgets/listing.php:62, ../includes/widgets/listing.php:92, ../includes/widgets/rooms.php:61, ../includes/widgets/rooms.php:474
+msgid "Layout"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:118, ../includes/widgets/ajax-room-booking.php:168, ../includes/widgets/booking.php:1655, ../includes/widgets/checkin.php:71, ../includes/widgets/checkout.php:71, ../includes/widgets/datepicker.php:58, ../includes/widgets/datepicker.php:108, ../includes/widgets/listing.php:66, ../includes/widgets/listing.php:1556, ../includes/widgets/rooms.php:72
+msgid "Default"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:119, ../includes/widgets/datepicker.php:59, ../includes/widgets/listing.php:67
+msgid "Inline"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:127, ../includes/widgets/datepicker.php:67, ../includes/widgets/listing.php:75
+msgid "Bar Position"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:131, ../includes/widgets/datepicker.php:71, ../includes/widgets/listing.php:79
+msgid "Top"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:132, ../includes/widgets/datepicker.php:72, ../includes/widgets/listing.php:80
+msgid "Bottom"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:164, ../includes/widgets/datepicker.php:104, ../includes/widgets/listing.php:1552, ../includes/widgets/rooms.php:68
+msgid "Skin"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:169, ../includes/widgets/datepicker.php:109, ../includes/widgets/listing.php:1557
+msgid "Rounded"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:177, ../includes/widgets/datepicker.php:117, ../includes/widgets/listing.php:1565
+msgid "Disabled Style"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:181, ../includes/widgets/datepicker.php:121, ../includes/widgets/listing.php:1569
+msgid "Cross"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:182, ../includes/widgets/datepicker.php:122, ../includes/widgets/listing.php:1570
+msgid "Strikethrough"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:190, ../includes/widgets/ajax-room-booking.php:309, ../includes/widgets/ajax-room-booking.php:345, ../includes/widgets/ajax-room-booking.php:514, ../includes/widgets/ajax-room-booking.php:550, ../includes/widgets/ajax-room-booking.php:719, ../includes/widgets/ajax-room-booking.php:755, ../includes/widgets/ajax-room-booking.php:1159, ../includes/widgets/ajax-room-booking.php:1197, ../includes/widgets/ajax-room-booking.php:1310, ../includes/widgets/ajax-room-booking.php:1340, ../includes/widgets/ajax-room-booking.php:1476, ../includes/widgets/ajax-room-booking.php:1551, ../includes/widgets/booking.php:483, ../includes/widgets/booking.php:837, ../includes/widgets/booking.php:875, ../includes/widgets/booking.php:1002, ../includes/widgets/booking.php:1032, ../includes/widgets/booking.php:1173, ../includes/widgets/booking.php:1203, ../includes/widgets/booking.php:1333, ../includes/widgets/booking.php:1362, ../includes/widgets/booking.php:1490, ../includes/widgets/booking.php:1555, ../includes/widgets/booking.php:1936, ../includes/widgets/booking.php:1966, ../includes/widgets/booking.php:2099, ../includes/widgets/booking.php:2129, ../includes/widgets/datepicker.php:130, ../includes/widgets/datepicker.php:249, ../includes/widgets/datepicker.php:284, ../includes/widgets/datepicker.php:453, ../includes/widgets/datepicker.php:489, ../includes/widgets/datepicker.php:658, ../includes/widgets/datepicker.php:694, ../includes/widgets/datepicker.php:863, ../includes/widgets/datepicker.php:899, ../includes/widgets/datepicker.php:1077, ../includes/widgets/datepicker.php:1115, ../includes/widgets/listing.php:133, ../includes/widgets/listing.php:726, ../includes/widgets/listing.php:764, ../includes/widgets/listing.php:889, ../includes/widgets/listing.php:919, ../includes/widgets/listing.php:1078, ../includes/widgets/listing.php:1108, ../includes/widgets/listing.php:1244, ../includes/widgets/listing.php:1578, ../includes/widgets/listing.php:1698, ../includes/widgets/listing.php:1733, ../includes/widgets/listing.php:1902, ../includes/widgets/listing.php:1938, ../includes/widgets/listing.php:2107, ../includes/widgets/listing.php:2143, ../includes/widgets/listing.php:2312, ../includes/widgets/listing.php:2348, ../includes/widgets/listing.php:2526, ../includes/widgets/listing.php:2564, ../includes/widgets/listing.php:2717, ../includes/widgets/listing.php:2782, ../includes/widgets/room-gallery.php:117, ../includes/widgets/room-gallery.php:154, ../includes/widgets/room-rates.php:46, ../includes/widgets/room-rates.php:404, ../includes/widgets/room-rates.php:434, ../includes/widgets/rooms-filter.php:250, ../includes/widgets/rooms-filter.php:304, ../includes/widgets/rooms-filter.php:466, ../includes/widgets/rooms-filter.php:520, ../includes/widgets/rooms-filter.php:589, ../includes/widgets/rooms-filter.php:618, ../includes/widgets/rooms.php:558, ../includes/widgets/rooms.php:994, ../includes/widgets/rooms.php:1030, ../includes/widgets/rooms.php:1191
+msgid "Background Color"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:202, ../includes/widgets/ajax-room-booking.php:375, ../includes/widgets/ajax-room-booking.php:580, ../includes/widgets/ajax-room-booking.php:785, ../includes/widgets/ajax-room-booking.php:1216, ../includes/widgets/ajax-room-booking.php:1364, ../includes/widgets/booking.php:894, ../includes/widgets/booking.php:1056, ../includes/widgets/booking.php:1227, ../includes/widgets/booking.php:1384, ../includes/widgets/booking.php:1667, ../includes/widgets/booking.php:1990, ../includes/widgets/booking.php:2153, ../includes/widgets/datepicker.php:142, ../includes/widgets/datepicker.php:314, ../includes/widgets/datepicker.php:519, ../includes/widgets/datepicker.php:724, ../includes/widgets/datepicker.php:929, ../includes/widgets/datepicker.php:1134, ../includes/widgets/listing.php:783, ../includes/widgets/listing.php:943, ../includes/widgets/listing.php:1132, ../includes/widgets/listing.php:1590, ../includes/widgets/listing.php:1763, ../includes/widgets/listing.php:1968, ../includes/widgets/listing.php:2173, ../includes/widgets/listing.php:2378, ../includes/widgets/listing.php:2583, ../includes/widgets/room-rates.php:458, ../includes/widgets/rooms-filter.php:315, ../includes/widgets/rooms-filter.php:531, ../includes/widgets/rooms-filter.php:642, ../includes/widgets/rooms.php:1060
+msgid "Border Color"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:215, ../includes/widgets/datepicker.php:155, ../includes/widgets/listing.php:1603
+msgid "Today Background Color"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:227, ../includes/widgets/datepicker.php:167, ../includes/widgets/listing.php:1615
+msgid "Today Text Color"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:239, ../includes/widgets/datepicker.php:179, ../includes/widgets/listing.php:1627
+msgid "Selected Background Color"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:251, ../includes/widgets/datepicker.php:191, ../includes/widgets/listing.php:1639
+msgid "Accent Text Color"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:263, ../includes/widgets/datepicker.php:203, ../includes/widgets/listing.php:1651
+msgid "Accent Color"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:276, ../includes/widgets/datepicker.php:420, ../includes/widgets/listing.php:1869
+msgid "Close Button"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:303, ../includes/widgets/ajax-room-booking.php:508, ../includes/widgets/ajax-room-booking.php:713, ../includes/widgets/ajax-room-booking.php:1129, ../includes/widgets/ajax-room-booking.php:1304, ../includes/widgets/booking.php:693, ../includes/widgets/booking.php:807, ../includes/widgets/booking.php:996, ../includes/widgets/booking.php:1167, ../includes/widgets/booking.php:1327, ../includes/widgets/booking.php:1930, ../includes/widgets/booking.php:2093, ../includes/widgets/datepicker.php:243, ../includes/widgets/datepicker.php:447, ../includes/widgets/datepicker.php:652, ../includes/widgets/datepicker.php:857, ../includes/widgets/datepicker.php:1058, ../includes/widgets/listing.php:707, ../includes/widgets/listing.php:883, ../includes/widgets/listing.php:1072, ../includes/widgets/listing.php:1692, ../includes/widgets/listing.php:1896, ../includes/widgets/listing.php:2101, ../includes/widgets/listing.php:2306, ../includes/widgets/listing.php:2507, ../includes/widgets/room-gallery.php:111, ../includes/widgets/room-rates.php:398, ../includes/widgets/rooms-filter.php:233, ../includes/widgets/rooms-filter.php:449, ../includes/widgets/rooms-filter.php:583, ../includes/widgets/rooms.php:988
+msgid "Normal"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:324, ../includes/widgets/ajax-room-booking.php:360, ../includes/widgets/ajax-room-booking.php:529, ../includes/widgets/ajax-room-booking.php:565, ../includes/widgets/ajax-room-booking.php:734, ../includes/widgets/ajax-room-booking.php:770, ../includes/widgets/ajax-room-booking.php:912, ../includes/widgets/ajax-room-booking.php:946, ../includes/widgets/ajax-room-booking.php:980, ../includes/widgets/ajax-room-booking.php:1014, ../includes/widgets/ajax-room-booking.php:1048, ../includes/widgets/ajax-room-booking.php:1093, ../includes/widgets/ajax-room-booking.php:1135, ../includes/widgets/ajax-room-booking.php:1184, ../includes/widgets/ajax-room-booking.php:1321, ../includes/widgets/ajax-room-booking.php:1352, ../includes/widgets/ajax-room-booking.php:1488, ../includes/widgets/ajax-room-booking.php:1584, ../includes/widgets/ajax-room-booking.php:1618, ../includes/widgets/ajax-room-booking.php:1652, ../includes/widgets/booking.php:610, ../includes/widgets/booking.php:641, ../includes/widgets/booking.php:699, ../includes/widgets/booking.php:720, ../includes/widgets/booking.php:771, ../includes/widgets/booking.php:813, ../includes/widgets/booking.php:862, ../includes/widgets/booking.php:1013, ../includes/widgets/booking.php:1044, ../includes/widgets/booking.php:1185, ../includes/widgets/booking.php:1215, ../includes/widgets/booking.php:1344, ../includes/widgets/booking.php:1373, ../includes/widgets/booking.php:1502, ../includes/widgets/booking.php:1567, ../includes/widgets/booking.php:1688, ../includes/widgets/booking.php:1716, ../includes/widgets/booking.php:1748, ../includes/widgets/booking.php:1777, ../includes/widgets/booking.php:1807, ../includes/widgets/booking.php:1857, ../includes/widgets/booking.php:1885, ../includes/widgets/booking.php:1948, ../includes/widgets/booking.php:1978, ../includes/widgets/booking.php:2111, ../includes/widgets/booking.php:2141, ../includes/widgets/cart.php:96, ../includes/widgets/cart.php:129, ../includes/widgets/cart.php:159, ../includes/widgets/cart.php:192, ../includes/widgets/cart.php:225, ../includes/widgets/checkin.php:53, ../includes/widgets/checkout.php:53, ../includes/widgets/datepicker.php:263, ../includes/widgets/datepicker.php:299, ../includes/widgets/datepicker.php:468, ../includes/widgets/datepicker.php:504, ../includes/widgets/datepicker.php:673, ../includes/widgets/datepicker.php:709, ../includes/widgets/datepicker.php:878, ../includes/widgets/datepicker.php:914, ../includes/widgets/datepicker.php:1064, ../includes/widgets/datepicker.php:1102, ../includes/widgets/listing.php:282, ../includes/widgets/listing.php:316, ../includes/widgets/listing.php:350, ../includes/widgets/listing.php:384, ../includes/widgets/listing.php:418, ../includes/widgets/listing.php:452, ../includes/widgets/listing.php:486, ../includes/widgets/listing.php:520, ../includes/widgets/listing.php:554, ../includes/widgets/listing.php:588, ../includes/widgets/listing.php:623, ../includes/widgets/listing.php:668, ../includes/widgets/listing.php:713, ../includes/widgets/listing.php:751, ../includes/widgets/listing.php:901, ../includes/widgets/listing.php:931, ../includes/widgets/listing.php:1089, ../includes/widgets/listing.php:1120, ../includes/widgets/listing.php:1277, ../includes/widgets/listing.php:1311, ../includes/widgets/listing.php:1345, ../includes/widgets/listing.php:1379, ../includes/widgets/listing.php:1428, ../includes/widgets/listing.php:1712, ../includes/widgets/listing.php:1748, ../includes/widgets/listing.php:1917, ../includes/widgets/listing.php:1953, ../includes/widgets/listing.php:2122, ../includes/widgets/listing.php:2158, ../includes/widgets/listing.php:2327, ../includes/widgets/listing.php:2363, ../includes/widgets/listing.php:2513, ../includes/widgets/listing.php:2551, ../includes/widgets/listing.php:2729, ../includes/widgets/listing.php:2794, ../includes/widgets/room-deposit.php:50, ../includes/widgets/room-description.php:50, ../includes/widgets/room-facilities.php:50, ../includes/widgets/room-gallery.php:133, ../includes/widgets/room-gallery.php:169, ../includes/widgets/room-meta.php:108, ../includes/widgets/room-price.php:53, ../includes/widgets/room-rates.php:171, ../includes/widgets/room-rates.php:205, ../includes/widgets/room-rates.php:239, ../includes/widgets/room-rates.php:273, ../includes/widgets/room-rates.php:307, ../includes/widgets/room-rates.php:341, ../includes/widgets/room-rates.php:416, ../includes/widgets/room-rates.php:446, ../includes/widgets/room-title.php:53, ../includes/widgets/rooms-filter.php:239, ../includes/widgets/rooms-filter.php:293, ../includes/widgets/rooms-filter.php:455, ../includes/widgets/rooms-filter.php:509, ../includes/widgets/rooms-filter.php:600, ../includes/widgets/rooms-filter.php:630, ../includes/widgets/rooms.php:799, ../includes/widgets/rooms.php:842, ../includes/widgets/rooms.php:886, ../includes/widgets/rooms.php:929, ../includes/widgets/rooms.php:1009, ../includes/widgets/rooms.php:1045
+msgid "Color"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:339, ../includes/widgets/ajax-room-booking.php:544, ../includes/widgets/ajax-room-booking.php:749, ../includes/widgets/ajax-room-booking.php:1334, ../includes/widgets/booking.php:714, ../includes/widgets/booking.php:1026, ../includes/widgets/booking.php:1197, ../includes/widgets/booking.php:1356, ../includes/widgets/booking.php:1960, ../includes/widgets/booking.php:2123, ../includes/widgets/datepicker.php:278, ../includes/widgets/datepicker.php:483, ../includes/widgets/datepicker.php:688, ../includes/widgets/datepicker.php:893, ../includes/widgets/listing.php:913, ../includes/widgets/listing.php:1102, ../includes/widgets/listing.php:1727, ../includes/widgets/listing.php:1932, ../includes/widgets/listing.php:2137, ../includes/widgets/listing.php:2342, ../includes/widgets/room-gallery.php:148, ../includes/widgets/room-rates.php:428, ../includes/widgets/rooms-filter.php:287, ../includes/widgets/rooms-filter.php:612, ../includes/widgets/rooms.php:1024
+msgid "Hover"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:390, ../includes/widgets/ajax-room-booking.php:595, ../includes/widgets/ajax-room-booking.php:800, ../includes/widgets/ajax-room-booking.php:1230, ../includes/widgets/ajax-room-booking.php:1376, ../includes/widgets/booking.php:908, ../includes/widgets/booking.php:1068, ../includes/widgets/booking.php:1239, ../includes/widgets/booking.php:1395, ../includes/widgets/booking.php:2002, ../includes/widgets/booking.php:2165, ../includes/widgets/datepicker.php:329, ../includes/widgets/datepicker.php:534, ../includes/widgets/datepicker.php:739, ../includes/widgets/datepicker.php:944, ../includes/widgets/datepicker.php:1148, ../includes/widgets/listing.php:797, ../includes/widgets/listing.php:955, ../includes/widgets/listing.php:1144, ../includes/widgets/listing.php:1778, ../includes/widgets/listing.php:1983, ../includes/widgets/listing.php:2188, ../includes/widgets/listing.php:2393, ../includes/widgets/listing.php:2597, ../includes/widgets/room-rates.php:470, ../includes/widgets/rooms-filter.php:326, ../includes/widgets/rooms-filter.php:542, ../includes/widgets/rooms-filter.php:654, ../includes/widgets/rooms.php:1074
+msgid "Transition Duration"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:443, ../includes/widgets/ajax-room-booking.php:648, ../includes/widgets/ajax-room-booking.php:853, ../includes/widgets/ajax-room-booking.php:1260, ../includes/widgets/ajax-room-booking.php:1423, ../includes/widgets/ajax-room-booking.php:1563, ../includes/widgets/booking.php:512, ../includes/widgets/booking.php:938, ../includes/widgets/booking.php:1115, ../includes/widgets/booking.php:1286, ../includes/widgets/booking.php:1425, ../includes/widgets/booking.php:2049, ../includes/widgets/booking.php:2212, ../includes/widgets/datepicker.php:382, ../includes/widgets/datepicker.php:587, ../includes/widgets/datepicker.php:792, ../includes/widgets/datepicker.php:997, ../includes/widgets/datepicker.php:1195, ../includes/widgets/listing.php:182, ../includes/widgets/listing.php:827, ../includes/widgets/listing.php:1002, ../includes/widgets/listing.php:1191, ../includes/widgets/listing.php:1256, ../includes/widgets/listing.php:1482, ../includes/widgets/listing.php:1831, ../includes/widgets/listing.php:2036, ../includes/widgets/listing.php:2241, ../includes/widgets/listing.php:2446, ../includes/widgets/listing.php:2644, ../includes/widgets/room-rates.php:83, ../includes/widgets/room-rates.php:517, ../includes/widgets/rooms-filter.php:275, ../includes/widgets/rooms-filter.php:491, ../includes/widgets/rooms-filter.php:701, ../includes/widgets/rooms.php:584, ../includes/widgets/rooms.php:1124, ../includes/widgets/rooms.php:1221
+msgid "Border Radius"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:466, ../includes/widgets/ajax-room-booking.php:671, ../includes/widgets/ajax-room-booking.php:876, ../includes/widgets/ajax-room-booking.php:1272, ../includes/widgets/ajax-room-booking.php:1443, ../includes/widgets/ajax-room-booking.php:1520, ../includes/widgets/booking.php:524, ../includes/widgets/booking.php:950, ../includes/widgets/booking.php:1135, ../includes/widgets/booking.php:1298, ../includes/widgets/booking.php:1437, ../includes/widgets/booking.php:1534, ../includes/widgets/booking.php:1599, ../includes/widgets/booking.php:1630, ../includes/widgets/booking.php:2061, ../includes/widgets/booking.php:2224, ../includes/widgets/datepicker.php:405, ../includes/widgets/datepicker.php:610, ../includes/widgets/datepicker.php:815, ../includes/widgets/datepicker.php:1020, ../includes/widgets/datepicker.php:1215, ../includes/widgets/listing.php:194, ../includes/widgets/listing.php:839, ../includes/widgets/listing.php:1014, ../includes/widgets/listing.php:1211, ../includes/widgets/listing.php:1505, ../includes/widgets/listing.php:1854, ../includes/widgets/listing.php:2059, ../includes/widgets/listing.php:2264, ../includes/widgets/listing.php:2469, ../includes/widgets/listing.php:2664, ../includes/widgets/listing.php:2761, ../includes/widgets/listing.php:2826, ../includes/widgets/room-rates.php:95, ../includes/widgets/room-rates.php:529, ../includes/widgets/rooms-filter.php:347, ../includes/widgets/rooms-filter.php:721, ../includes/widgets/rooms.php:599, ../includes/widgets/rooms.php:1139
+msgid "Padding"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:481, ../includes/widgets/datepicker.php:625, ../includes/widgets/listing.php:2074
+msgid "Clear Button"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:686, ../includes/widgets/ajax-room-booking.php:1284, ../includes/widgets/datepicker.php:830, ../includes/widgets/listing.php:2279
+msgid "Submit Button"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:895, ../includes/widgets/booking.php:594, ../includes/widgets/cart.php:80, ../includes/widgets/listing.php:266, ../includes/widgets/room-rates.php:155
+msgid "Typography"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:903, ../includes/widgets/booking.php:1768, ../includes/widgets/cart.php:184, ../includes/widgets/listing.php:375, ../includes/widgets/room-rates.php:230
+msgid "Prices"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:937, ../includes/widgets/listing.php:477, ../includes/widgets/room-rates.php:264
+msgid "Infos"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:971, ../includes/widgets/listing.php:511, ../includes/widgets/room-rates.php:298
+msgid "Deposits"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:1005, ../includes/widgets/listing.php:545, ../includes/widgets/room-rates.php:332
+msgid "Conditions"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:1039, ../includes/widgets/rooms-filter.php:567
+msgid "Reset"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:1077, ../includes/widgets/booking.php:755
+msgid "Forms"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:1086, ../includes/widgets/booking.php:764, ../includes/widgets/listing.php:661
+msgid "Labels"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:1113, ../includes/widgets/booking.php:791, ../includes/widgets/listing.php:652, ../includes/widgets/listing.php:688
+msgid "Fields"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:1146, ../includes/widgets/booking.php:824
+msgid "Placeholder"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:1170, ../includes/widgets/ajax-room-booking.php:1208, ../includes/widgets/booking.php:495, ../includes/widgets/booking.php:848, ../includes/widgets/booking.php:886, ../includes/widgets/datepicker.php:1088, ../includes/widgets/datepicker.php:1126, ../includes/widgets/listing.php:216, ../includes/widgets/listing.php:737, ../includes/widgets/listing.php:775, ../includes/widgets/listing.php:2537, ../includes/widgets/listing.php:2575, ../includes/widgets/rooms.php:619
+msgid "Box Shadow"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:1178, ../includes/widgets/booking.php:856, ../includes/widgets/datepicker.php:1096, ../includes/widgets/listing.php:745, ../includes/widgets/listing.php:2545
+msgid "Focus"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:1459, ../includes/widgets/booking.php:1453, ../includes/widgets/listing.php:2680
+msgid "Notices"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:1467, ../includes/widgets/booking.php:1546, ../includes/widgets/listing.php:2773
+msgid "Error Notice"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:1534, ../includes/widgets/listing.php:1227
+msgid "Extras"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:1542, ../includes/widgets/booking.php:552, ../includes/widgets/listing.php:230, ../includes/widgets/listing.php:1235, ../includes/widgets/room-rates.php:119, ../includes/widgets/rooms-filter.php:157, ../includes/widgets/rooms.php:780
+msgid "Content"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:1575, ../includes/widgets/listing.php:1302, ../includes/widgets/room-title.php:35, ../includes/widgets/rooms-filter.php:217, ../includes/widgets/rooms.php:136, ../includes/widgets/rooms.php:384, ../includes/widgets/rooms.php:788
+msgid "Title"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:1609, ../includes/widgets/listing.php:1336, ../includes/widgets/room-rates.php:196, ../includes/widgets/rooms.php:183, ../includes/widgets/rooms.php:874
+msgid "Description"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:1643, ../includes/widgets/listing.php:1370, ../includes/widgets/room-price.php:35, ../includes/widgets/rooms.php:206, ../includes/widgets/rooms.php:917
+msgid "Price"
+msgstr ""
+
+#: ../includes/widgets/ajax-room-booking.php:1685, ../includes/widgets/room-deposit.php:65, ../includes/widgets/room-description.php:69, ../includes/widgets/room-facilities.php:69, ../includes/widgets/room-gallery.php:196, ../includes/widgets/room-meta.php:128, ../includes/widgets/room-price.php:75, ../includes/widgets/room-rates.php:549, ../includes/widgets/room-title.php:95
+msgid "This module can only be used on the room page."
+msgstr ""
+
+#: ../includes/widgets/booking.php:16
+msgid "Booking"
+msgstr ""
+
+#: ../includes/widgets/booking.php:55, ../includes/widgets/booking.php:1461, ../includes/widgets/listing.php:2688
+msgid "General"
+msgstr ""
+
+#: ../includes/widgets/booking.php:65
+msgid "One column"
+msgstr ""
+
+#: ../includes/widgets/booking.php:66
+msgid "Two columns"
+msgstr ""
+
+#: ../includes/widgets/booking.php:76
+msgid "Main Column Width"
+msgstr ""
+
+#: ../includes/widgets/booking.php:107
+msgid "Guest Details"
+msgstr ""
+
+#: ../includes/widgets/booking.php:114, ../includes/widgets/booking.php:160, ../includes/widgets/booking.php:206, ../includes/widgets/booking.php:252, ../includes/widgets/booking.php:298, ../includes/widgets/booking.php:344, ../includes/widgets/booking.php:390, ../includes/widgets/booking.php:436
+msgid "Section Title"
+msgstr ""
+
+#: ../includes/widgets/booking.php:116, ../includes/widgets/booking.php:117, ../includes/widgets/booking.php:346, ../includes/widgets/booking.php:347
+msgid "Guest details"
+msgstr ""
+
+#: ../includes/widgets/booking.php:124, ../includes/widgets/booking.php:170, ../includes/widgets/booking.php:216, ../includes/widgets/booking.php:262, ../includes/widgets/booking.php:308, ../includes/widgets/booking.php:354, ../includes/widgets/booking.php:400, ../includes/widgets/booking.php:446, ../includes/widgets/listing.php:1035, ../includes/widgets/rooms-filter.php:165, ../includes/widgets/rooms.php:444, ../includes/widgets/rooms.php:523
+msgid "Alignment"
+msgstr ""
+
+#: ../includes/widgets/booking.php:128, ../includes/widgets/booking.php:174, ../includes/widgets/booking.php:220, ../includes/widgets/booking.php:266, ../includes/widgets/booking.php:312, ../includes/widgets/booking.php:358, ../includes/widgets/booking.php:404, ../includes/widgets/booking.php:450, ../includes/widgets/listing.php:1039, ../includes/widgets/rooms-filter.php:169, ../includes/widgets/rooms-filter.php:386, ../includes/widgets/rooms.php:448, ../includes/widgets/rooms.php:527, ../includes/widgets/rooms.php:1170
+msgid "Left"
+msgstr ""
+
+#: ../includes/widgets/booking.php:132, ../includes/widgets/booking.php:178, ../includes/widgets/booking.php:224, ../includes/widgets/booking.php:270, ../includes/widgets/booking.php:316, ../includes/widgets/booking.php:362, ../includes/widgets/booking.php:408, ../includes/widgets/booking.php:454, ../includes/widgets/listing.php:1043, ../includes/widgets/rooms-filter.php:173, ../includes/widgets/rooms.php:452, ../includes/widgets/rooms.php:531
+msgid "Center"
+msgstr ""
+
+#: ../includes/widgets/booking.php:136, ../includes/widgets/booking.php:182, ../includes/widgets/booking.php:228, ../includes/widgets/booking.php:274, ../includes/widgets/booking.php:320, ../includes/widgets/booking.php:366, ../includes/widgets/booking.php:412, ../includes/widgets/booking.php:458, ../includes/widgets/listing.php:1047, ../includes/widgets/rooms-filter.php:177, ../includes/widgets/rooms-filter.php:390, ../includes/widgets/rooms.php:456, ../includes/widgets/rooms.php:535, ../includes/widgets/rooms.php:1174
+msgid "Right"
+msgstr ""
+
+#: ../includes/widgets/booking.php:153, ../includes/widgets/booking.php:162, ../includes/widgets/booking.php:163
+msgid "Additional information"
+msgstr ""
+
+#: ../includes/widgets/booking.php:199, ../includes/widgets/booking.php:208, ../includes/widgets/booking.php:209
+msgid "Booking details"
+msgstr ""
+
+#: ../includes/widgets/booking.php:245
+msgid "Reservation table"
+msgstr ""
+
+#: ../includes/widgets/booking.php:254, ../includes/widgets/booking.php:255
+msgid "Your reservation"
+msgstr ""
+
+#: ../includes/widgets/booking.php:291
+msgid "Reservation details (Received page)"
+msgstr ""
+
+#: ../includes/widgets/booking.php:300, ../includes/widgets/booking.php:301
+msgid "Reservation details"
+msgstr ""
+
+#: ../includes/widgets/booking.php:337
+msgid "Guest details (Received page)"
+msgstr ""
+
+#: ../includes/widgets/booking.php:383
+msgid "Guest address (Received page)"
+msgstr ""
+
+#: ../includes/widgets/booking.php:392, ../includes/widgets/booking.php:393
+msgid "Guest address"
+msgstr ""
+
+#: ../includes/widgets/booking.php:429, ../includes/widgets/booking.php:438, ../includes/widgets/booking.php:439, ../templates/preview/booking-preview.php:209
+msgid "Payment method"
+msgstr ""
+
+#: ../includes/widgets/booking.php:475
+msgid "Sections"
+msgstr ""
+
+#: ../includes/widgets/booking.php:536, ../includes/widgets/booking.php:1469, ../includes/widgets/listing.php:2696, ../includes/widgets/rooms.php:1260
+msgid "Margin"
+msgstr ""
+
+#: ../includes/widgets/booking.php:560, ../includes/widgets/listing.php:238, ../includes/widgets/room-rates.php:127, ../includes/widgets/rooms-filter.php:191, ../includes/widgets/rooms.php:629
+msgid "Vertical Rhythm"
+msgstr ""
+
+#: ../includes/widgets/booking.php:603, ../includes/widgets/booking.php:1707
+msgid "Titles"
+msgstr ""
+
+#: ../includes/widgets/booking.php:632, ../includes/widgets/booking.php:1798, ../includes/widgets/listing.php:341
+msgid "Descriptions"
+msgstr ""
+
+#: ../includes/widgets/booking.php:684
+msgid "Links"
+msgstr ""
+
+#: ../includes/widgets/booking.php:968, ../includes/widgets/listing.php:855, ../includes/widgets/room-rates.php:370
+msgid "Buttons"
+msgstr ""
+
+#: ../includes/widgets/booking.php:976
+msgid "Book Button"
+msgstr ""
+
+#: ../includes/widgets/booking.php:1147
+msgid "Cancel Reservation"
+msgstr ""
+
+#: ../includes/widgets/booking.php:1310, ../includes/widgets/booking.php:2073
+msgid "Remove Button"
+msgstr ""
+
+#: ../includes/widgets/booking.php:1481, ../includes/widgets/listing.php:2708
+msgid "Info Notice"
+msgstr ""
+
+#: ../includes/widgets/booking.php:1613
+msgid "Tables"
+msgstr ""
+
+#: ../includes/widgets/booking.php:1621
+msgid "Cells"
+msgstr ""
+
+#: ../includes/widgets/booking.php:1643
+msgid "Borders"
+msgstr ""
+
+#: ../includes/widgets/booking.php:1652
+msgid "Style"
+msgstr ""
+
+#: ../includes/widgets/booking.php:1656
+msgid "No borders"
+msgstr ""
+
+#: ../includes/widgets/booking.php:1657
+msgid "Horizontal borders"
+msgstr ""
+
+#: ../includes/widgets/booking.php:1679
+msgid "Headings"
+msgstr ""
+
+#: ../includes/widgets/booking.php:1739, ../includes/widgets/room-gallery.php:82
+msgid "Text"
+msgstr ""
+
+#: ../includes/widgets/booking.php:1841
+msgid "Coupon Form"
+msgstr ""
+
+#: ../includes/widgets/booking.php:1849
+msgid "Coupon Code"
+msgstr ""
+
+#: ../includes/widgets/booking.php:1876
+msgid "Coupon Description"
+msgstr ""
+
+#: ../includes/widgets/booking.php:1910
+msgid "Apply Button"
+msgstr ""
+
+#: ../includes/widgets/booking.php:2336, ../includes/widgets/listing.php:2848
+msgid "This is an example of \"Info\" notice. (You won't see this while previewing your site.)"
+msgstr ""
+
+#: ../includes/widgets/booking.php:2342, ../includes/widgets/listing.php:2854
+msgid "This is an example of \"Error\" notice. (You won't see this while previewing your site.)"
+msgstr ""
+
+#: ../includes/widgets/booking.php:2417, ../includes/widgets/cart.php:255
+msgid "This module can only be used on the booking page."
+msgstr ""
+
+#: ../includes/widgets/cart.php:12, ../includes/widgets/cart.php:36
+msgid "Cart"
+msgstr ""
+
+#: ../includes/widgets/cart.php:43
+msgid "Show Rooms"
+msgstr ""
+
+#: ../includes/widgets/cart.php:53
+msgid "Show Room Prices"
+msgstr ""
+
+#: ../includes/widgets/cart.php:66
+msgid "Show Total"
+msgstr ""
+
+#: ../includes/widgets/cart.php:88, ../includes/widgets/listing.php:274
+msgid "Room Titles"
+msgstr ""
+
+#: ../includes/widgets/cart.php:121, ../includes/widgets/room-rates.php:12
+msgid "Room Rates"
+msgstr ""
+
+#: ../includes/widgets/cart.php:151
+msgid "Total Label"
+msgstr ""
+
+#: ../includes/widgets/cart.php:217
+msgid "Total Price"
+msgstr ""
+
+#: ../includes/widgets/cart.php:271, ../includes/widgets/cart.php:284, ../includes/widgets/cart.php:295, ../templates/preview/booking-preview.php:48, ../templates/preview/booking-preview.php:95
+msgid "Room title"
+msgstr ""
+
+#: ../includes/widgets/cart.php:273, ../includes/widgets/cart.php:297, ../templates/preview/booking-preview.php:97
+msgid "Rate: rate name"
+msgstr ""
+
+#: ../includes/widgets/checkin.php:12, ../includes/widgets/checkin.php:35
+msgid "Check-in"
+msgstr ""
+
+#: ../includes/widgets/checkin.php:67, ../includes/widgets/checkout.php:67
+msgid "Format"
+msgstr ""
+
+#: ../includes/widgets/checkin.php:72, ../includes/widgets/checkout.php:72
+msgid "Custom"
+msgstr ""
+
+#: ../includes/widgets/checkin.php:80, ../includes/widgets/checkout.php:80
+msgid "Custom Format"
+msgstr ""
+
+#: ../includes/widgets/checkout.php:12, ../includes/widgets/checkout.php:35
+msgid "Check-out"
+msgstr ""
+
+#: ../includes/widgets/datepicker.php:84
+msgid "Datepicker Style"
+msgstr ""
+
+#: ../includes/widgets/datepicker.php:216, ../includes/widgets/listing.php:1664
+msgid "Main Button"
+msgstr ""
+
+#: ../includes/widgets/datepicker.php:1039, ../includes/widgets/listing.php:2488
+msgid "Datepicker Fields"
+msgstr ""
+
+#: ../includes/widgets/listing.php:22
+msgid "Listing"
+msgstr ""
+
+#: ../includes/widgets/listing.php:100
+msgid "Cards Gap"
+msgstr ""
+
+#: ../includes/widgets/listing.php:125, ../includes/widgets/room-rates.php:38, ../includes/widgets/rooms.php:550
+msgid "Card"
+msgstr ""
+
+#: ../includes/widgets/listing.php:170
+msgid "Color (Selected)"
+msgstr ""
+
+#: ../includes/widgets/listing.php:307, ../includes/widgets/room-rates.php:163
+msgid "Rate Titles"
+msgstr ""
+
+#: ../includes/widgets/listing.php:409
+msgid "Price Description"
+msgstr ""
+
+#: ../includes/widgets/listing.php:443
+msgid "Facilities"
+msgstr ""
+
+#: ../includes/widgets/listing.php:579, ../includes/widgets/rooms.php:160, ../includes/widgets/rooms.php:830
+msgid "Metas"
+msgstr ""
+
+#: ../includes/widgets/listing.php:614
+msgid "Selected Nights"
+msgstr ""
+
+#: ../includes/widgets/listing.php:863
+msgid "Book Now"
+msgstr ""
+
+#: ../includes/widgets/listing.php:1026
+msgid "Reserve"
+msgstr ""
+
+#: ../includes/widgets/listing.php:1268
+msgid "Toggle"
+msgstr ""
+
+#: ../includes/widgets/listing.php:1408
+msgid "Datepicker Field"
+msgstr ""
+
+#: ../includes/widgets/listing.php:1442
+msgid "Background"
+msgstr ""
+
+#: ../includes/widgets/listing.php:2925, ../includes/widgets/rooms-filter.php:770
+msgid "This module can only be used on the listing page."
+msgstr ""
+
+#: ../includes/widgets/room-deposit.php:12
+msgid "Room Deposit"
+msgstr ""
+
+#: ../includes/widgets/room-deposit.php:35
+msgid "Deposit"
+msgstr ""
+
+#: ../includes/widgets/room-deposit.php:85
+msgid "This is a placeholder because this room does not require a deposit. This element will not be displayed on the live page."
+msgstr ""
+
+#: ../includes/widgets/room-deposit.php:83
+msgid "This is a placeholder because this is a variable room and deposit info is displayed in the room rates. This element will not be displayed on the live page."
+msgstr ""
+
+#: ../includes/widgets/room-description.php:12, ../includes/widgets/room-description.php:35
+msgid "Room Short Description"
+msgstr ""
+
+#: ../includes/widgets/room-description.php:81
+msgid "This is a placeholder because this room does not have a short description. This element will not be displayed on the live page."
+msgstr ""
+
+#: ../includes/widgets/room-facilities.php:12, ../includes/widgets/room-facilities.php:35
+msgid "Room Facilities"
+msgstr ""
+
+#: ../includes/widgets/room-facilities.php:81
+msgid "This is a placeholder because this room has no faciltites. This element will not be displayed on the live page."
+msgstr ""
+
+#: ../includes/widgets/room-gallery.php:12, ../includes/widgets/room-gallery.php:36
+msgid "Room Gallery"
+msgstr ""
+
+#: ../includes/widgets/room-gallery.php:43
+msgid "Enable Lightbox"
+msgstr ""
+
+#: ../includes/widgets/room-gallery.php:56
+msgid "Link Style"
+msgstr ""
+
+#: ../includes/widgets/room-gallery.php:65
+msgid "Link only"
+msgstr ""
+
+#: ../includes/widgets/room-gallery.php:77
+msgid "Link Type"
+msgstr ""
+
+#: ../includes/widgets/room-gallery.php:81
+msgid "Icon"
+msgstr ""
+
+#: ../includes/widgets/room-gallery.php:225
+msgid "View gallery"
+msgstr ""
+
+#: ../includes/widgets/room-meta.php:12, ../includes/widgets/room-meta.php:36
+msgid "Room Meta"
+msgstr ""
+
+#: ../includes/widgets/room-meta.php:43
+msgid "Show Guests"
+msgstr ""
+
+#: ../includes/widgets/room-meta.php:52
+msgid "Show Children"
+msgstr ""
+
+#: ../includes/widgets/room-meta.php:61
+msgid "Show Beds"
+msgstr ""
+
+#: ../includes/widgets/room-meta.php:70
+msgid "Show Bathroom"
+msgstr ""
+
+#: ../includes/widgets/room-meta.php:79
+msgid "Show Room Size"
+msgstr ""
+
+#: ../includes/widgets/room-meta.php:92
+msgid "Room Meta Style"
+msgstr ""
+
+#: ../includes/widgets/room-price.php:12
+msgid "Room Price"
+msgstr ""
+
+#: ../includes/widgets/room-rates.php:378
+msgid "Check Availability"
+msgstr ""
+
+#: ../includes/widgets/room-rates.php:565
+msgid "This is a placeholder because this room does not have room rates. This element will not be displayed on the live page."
+msgstr ""
+
+#: ../includes/widgets/room-title.php:12
+msgid "Room Title"
+msgstr ""
+
+#: ../includes/widgets/room-title.php:67
+msgid "HTML Tag"
+msgstr ""
+
+#: ../includes/widgets/rooms-filter.php:12
+msgid "Rooms Filter"
+msgstr ""
+
+#: ../includes/widgets/rooms-filter.php:46
+msgid "Toggle Sections"
+msgstr ""
+
+#: ../includes/widgets/rooms-filter.php:55
+msgid "Default Toggle State"
+msgstr ""
+
+#: ../includes/widgets/rooms-filter.php:59, ../includes/widgets/rooms-filter.php:76
+msgid "Open"
+msgstr ""
+
+#: ../includes/widgets/rooms-filter.php:60, ../includes/widgets/rooms-filter.php:77
+msgid "Closed"
+msgstr ""
+
+#: ../includes/widgets/rooms-filter.php:72
+msgid "Default Mobile State"
+msgstr ""
+
+#: ../includes/widgets/rooms-filter.php:89
+msgid "Show Room Types"
+msgstr ""
+
+#: ../includes/widgets/rooms-filter.php:99
+msgid "Show Room Rates"
+msgstr ""
+
+#: ../includes/widgets/rooms-filter.php:108
+msgid "Show Max Guests"
+msgstr ""
+
+#: ../includes/widgets/rooms-filter.php:118
+msgid "Max Guests Limit"
+msgstr ""
+
+#: ../includes/widgets/rooms-filter.php:131
+msgid "Show Max Children"
+msgstr ""
+
+#: ../includes/widgets/rooms-filter.php:141
+msgid "Max Children Limit"
+msgstr ""
+
+#: ../includes/widgets/rooms-filter.php:360
+msgid "Toggle Icon (Open)"
+msgstr ""
+
+#: ../includes/widgets/rooms-filter.php:371
+msgid "Toggle Icon (Closed)"
+msgstr ""
+
+#: ../includes/widgets/rooms-filter.php:382
+msgid "Toggle Icon Position"
+msgstr ""
+
+#: ../includes/widgets/rooms-filter.php:406
+msgid "Toggle Icon Gap"
+msgstr ""
+
+#: ../includes/widgets/rooms-filter.php:433
+msgid "Link"
+msgstr ""
+
+#: ../includes/widgets/rooms-filter.php:503
+msgid "Active"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:31, ../includes/widgets/rooms.php:280
+msgid "Rooms"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:73, ../includes/widgets/rooms.php:667, ../includes/widgets/rooms.php:731
+msgid "Overlay"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:82
+msgid "Columns"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:102
+msgid "Posts Per Page"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:114
+msgid "Show Image"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:138, ../includes/widgets/rooms.php:162, ../includes/widgets/rooms.php:185, ../includes/widgets/rooms.php:208, ../includes/widgets/rooms.php:231, ../includes/widgets/rooms.php:254
+msgid "Show"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:139, ../includes/widgets/rooms.php:163, ../includes/widgets/rooms.php:186, ../includes/widgets/rooms.php:209, ../includes/widgets/rooms.php:232, ../includes/widgets/rooms.php:255
+msgid "Hide"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:148
+msgid "Title Priority"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:171
+msgid "Metas Priority"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:194
+msgid "Description Priority"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:217
+msgid "Price Priority"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:229, ../includes/widgets/rooms.php:961
+msgid "Read More"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:240
+msgid "Read More Priority"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:252
+msgid "Category Badge"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:268
+msgid "Query"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:276
+msgid "Source"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:281
+msgid "Related Rooms"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:282
+msgid "Dynamic Query (Archives)"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:302
+msgid "Include"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:309, ../includes/widgets/rooms.php:340
+msgid "Room IDs"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:320, ../includes/widgets/rooms.php:351
+msgid "Categories"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:333
+msgid "Exclude"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:366
+msgid "Offset"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:379
+msgid "Order By"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:383
+msgid "Date"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:385
+msgid "Menu Order"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:386
+msgid "Random"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:397
+msgid "Order"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:401
+msgid "ASC"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:402
+msgid "DESC"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:418, ../includes/widgets/rooms.php:429
+msgid "Pagination"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:433, ../includes/widgets/rooms.php:666
+msgid "None"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:434
+msgid "Numbers + Arrows"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:435
+msgid "Numbers"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:482
+msgid "Columns Gap"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:502
+msgid "Rows Gap"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:651
+msgid "Image"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:662
+msgid "Hover Effect"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:668
+msgid "Zoom In"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:677
+msgid "Invert Effect"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:687, ../includes/widgets/rooms.php:742
+msgid "Overlay Background Color"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:701, ../includes/widgets/rooms.php:754
+msgid "Overlay Opacity"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:1154
+msgid "Badge Category"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:1206
+msgid "Text Color"
+msgstr ""
+
+#: ../includes/widgets/rooms.php:1240
+msgid "Size"
+msgstr ""
+
+#: ../templates/preview/booking-preview.php:62
+msgid "Number of guests:"
+msgstr ""
+
+#: ../templates/preview/booking-preview.php:65
+msgid "Adults"
+msgstr ""
+
+#: ../templates/preview/booking-preview.php:74
+msgid "Children"
+msgstr ""
+
+#: ../templates/preview/booking-preview.php:213
+msgid "Payment method description"
+msgstr ""

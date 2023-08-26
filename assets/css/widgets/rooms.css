@@ -1,0 +1,117 @@
+.rooms-grid--shadow-yes .room-loop__item {
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+}
+
+.rooms-grid--shadow-yes .room-loop__item:hover {
+  box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.15);
+}
+
+.rooms-grid--hover-overlay .room__thumbnail:after {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: absolute;
+  content: "";
+  display: block;
+  opacity: 0;
+  transition: all 0.25s;
+}
+
+.rooms-grid--hover-overlay.rooms-grid--invert-hover-yes .room__thumbnail:hover:after {
+  opacity: 0 !important;
+}
+
+.rooms-grid--hover-zoom-in .room__thumbnail {
+  overflow: hidden;
+}
+
+.rooms-grid--hover-zoom-in .room__thumbnail img {
+  transition: transform 0.25s ease;
+}
+
+.rooms-grid--hover-zoom-in .room__thumbnail:hover img {
+  transform: scale(1.25);
+}
+
+.rooms-grid--hover-zoom-in.rooms-grid--invert-hover-yes .room__thumbnail img {
+  transform: scale(1.25);
+}
+
+.rooms-grid--hover-zoom-in.rooms-grid--invert-hover-yes .room__thumbnail:hover img {
+  transform: scale(1);
+}
+
+.room__meta {
+  color: #54595f;
+  font-family: "Roboto", Sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  margin-top: 10px;
+  display: flex;
+}
+
+.room__meta span:after {
+  content: "";
+  width: 1px;
+  height: 1em;
+  background-color: #54595f;
+  display: inline-block;
+  position: relative;
+  top: 3px;
+  margin-left: 0.75em;
+  margin-right: 0.75em;
+}
+
+.room__meta span:last-child:after {
+  display: none;
+}
+
+.room__badge--category {
+  position: absolute;
+  top: 0;
+  background: #818a91;
+  color: #fff;
+  font-size: 12px;
+  padding: 0.6em 1.2em;
+  line-height: 1;
+  font-weight: 400;
+  margin: 20px;
+}
+
+.rooms-grid--thumbnail-skin-overlay .room__thumbnail:after {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: absolute;
+  content: "";
+  display: block;
+  opacity: 0;
+  transition: all 0.25s;
+}
+
+.rooms-grid--thumbnail-skin-overlay .room__thumbnail img {
+  width: 100%;
+}
+
+.rooms-grid--thumbnail-skin-overlay .room__text-wrapper {
+  position: absolute;
+  top: 0;
+  pointer-events: none;
+  opacity: 0;
+  transition: all 0.25s;
+}
+
+.rooms-grid--thumbnail-skin-overlay .room__badge--category {
+  transition: all 0.25s;
+}
+
+.rooms-grid--thumbnail-skin-overlay .room-loop__item:hover .room__text-wrapper {
+  opacity: 1;
+}
+
+.rooms-grid--thumbnail-skin-overlay .room-loop__item:hover .room__badge--category {
+  transition: all 0.25s;
+  opacity: 0;
+}

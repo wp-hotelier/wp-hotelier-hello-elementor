@@ -1,0 +1,77 @@
+/*--------------------------------------------------------------
+>>> Transparent header
+----------------------------------------------------------------
+*/
+.htl-transparent-header #site-header {
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: 100%;
+  z-index: 9999;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.15) 50%, rgba(0, 0, 0, 0) 100%);
+}
+
+.htl-transparent-header #site-header .site-navigation-toggle-holder .site-navigation-toggle {
+  background-color: transparent;
+}
+
+.htl-transparent-header--light .site-header h1.site-title a,
+.htl-transparent-header--light .site-header .site-navigation ul.menu li a {
+  color: #ffffff;
+}
+
+.htl-transparent-header--light .site-header .site-logo svg {
+  fill: #ffffff;
+}
+
+.htl-transparent-header--light .site-header .site-navigation ul.menu li a {
+  letter-spacing: 1px;
+}
+
+.htl-transparent-header--light .site-navigation-toggle-holder .site-navigation-toggle,
+.htl-transparent-header--light .site-header .site-navigation-toggle i {
+  color: #ffffff;
+}
+
+.htl-is-sticky.htl-transparent-header #site-header {
+  background: #ffffff;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  position: fixed;
+}
+
+.htl-is-sticky.htl-transparent-header .site-header .site-logo svg {
+  fill: #000000;
+}
+
+.htl-is-sticky.htl-transparent-header .site-header h1.site-title a,
+.htl-is-sticky.htl-transparent-header .site-header .site-navigation ul.menu li a {
+  color: #000000;
+}
+
+.htl-is-sticky.htl-transparent-header .site-navigation-toggle-holder .site-navigation-toggle,
+.htl-is-sticky.htl-transparent-header .site-header .site-navigation-toggle i {
+  color: #000000;
+}
+
+/*--------------------------------------------------------------
+>>> Call to action
+----------------------------------------------------------------
+*/
+.htl-cta {
+  margin-left: 16px;
+}
+
+.htl-cta > a {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  border-bottom: 2px solid currentColor;
+}
+
+@media (max-width: 1199px) {
+  .htl-transparent-header #site-header .header-inner {
+    max-width: 90% !important;
+  }
+}
