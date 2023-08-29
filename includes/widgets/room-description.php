@@ -75,7 +75,7 @@ class HTL_Hello_Elementor_Room_Description_Widget extends \Elementor\Widget_Base
 
 		$settings = $this->get_settings_for_display();
 
-		$short_description = apply_filters( 'hotelier_short_description', $room->post_excerpt );
+		$short_description = apply_filters( 'hotelier_short_description', $room->post->post_excerpt );
 
 		if ( ! $short_description && \Elementor\Plugin::$instance->editor->is_edit_mode() ) {
 			$short_description = esc_html__( 'This is a placeholder because this room does not have a short description. This element will not be displayed on the live page.', 'wp-hotelier-hello-elementor' );
