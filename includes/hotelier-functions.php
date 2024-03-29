@@ -141,3 +141,16 @@ function hotelier_hello_elementor_populate_room_objet() {
 
 	return $post;
 }
+
+/**
+ * Remove WP Hotelier settings.
+ */
+function hotelier_hello_elementor_remove_expand_rates_setting( $settings ) {
+
+	if ( isset( $settings[ 'expand_rates' ] ) ) {
+		unset( $settings[ 'expand_rates' ] );
+	}
+
+	return $settings;
+}
+add_filter( 'hotelier_settings_rooms_and_reservations', 'hotelier_hello_elementor_remove_expand_rates_setting' );
