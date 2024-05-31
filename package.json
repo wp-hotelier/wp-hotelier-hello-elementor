@@ -1,7 +1,7 @@
 {
 	"name": "wp-hotelier-hello-elementor",
 	"description": "WP Hotelier Integration For Hello Theme.",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"homepage": "https://wphotelier.com/hello-elementor/",
 	"author": "Benito Lopez http://lopezb.com/",
 	"scripts": {

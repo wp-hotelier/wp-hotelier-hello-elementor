@@ -3,7 +3,7 @@
  * Plugin Name:       WP Hotelier - Hello Elementor
  * Plugin URI:        https://wphotelier.com/hello-elementor/
  * Description:       WP Hotelier Integration For Hello Theme.
- * Version:           1.0.0
+ * Version:           1.1.0
  * Author:            WP Hotelier
  * Author URI:        https://wphotelier.com/
  * Requires at least: 4.4
@@ -31,7 +31,7 @@ final class Hotelier_Hello_Elementor {
 	/**
 	 * @var string
 	 */
-	public $version = '1.0.0';
+	public $version = '1.1.0';
 
 	/**
 	 * @var Hotelier_Hello_Elementor The single instance of the class
