@@ -6,12 +6,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 class HTL_Hello_Elementor_Ajax_Room_Booking_Widget extends \Elementor\Widget_Base {
 	public function __construct( $data = [], $args = null ) {
 		parent::__construct( $data, $args );
-
-		add_action( 'wp_enqueue_scripts', [ $this, 'enqueue_ajax_room_booking_scripts' ], 999 );
-	}
-
-	public function enqueue_ajax_room_booking_scripts() {
-		wp_enqueue_script( 'hotelier-ajax-room-booking' );
 	}
 
 	public function get_name() {
@@ -1675,6 +1669,8 @@ class HTL_Hello_Elementor_Ajax_Room_Booking_Widget extends \Elementor\Widget_Bas
 	}
 
 	protected function render() {
+		wp_enqueue_script( 'hotelier-ajax-room-booking' );
+
 		global $room;
 
 		if ( ! is_room() ) {
