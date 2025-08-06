@@ -2410,7 +2410,7 @@ class HTL_Hello_Elementor_Booking_Widget extends \Elementor\Widget_Base {
 	}
 
 	protected function render() {
-		if ( htl_get_page_id( 'booking' ) !== get_the_ID() || is_reservation_received_page() || is_pay_reservation_page() ) {
+		if ( ! is_booking() || is_reservation_received_page() || is_pay_reservation_page() ) {
 			?>
 			<?php if ( \Elementor\Plugin::$instance->editor->is_edit_mode() ) : ?>
 			<div class="htl-elementor-editor-notice" style="padding: 15px;margin-bottom: 20px;color: #93003c;background-color: #93003c42;font-weight: bold;">
